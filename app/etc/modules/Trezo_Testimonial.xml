@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Trezo_Testimonial>
+            <active>true</active>
+            <codePool>community</codePool>
+        </Trezo_Testimonial>
+    </modules>
+</config>
